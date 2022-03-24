@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yue0827
 - 👀 I’m interested in boundary layer meteorology and weather forecasting models.
-- 🌱 I’m currently learning data analysis and data visualization on Python.
+- 🌱 I’m currently learning data analysis and data visualization in Python.
 - 💕 I'm looking forward to collaborating on developing a website about fun stuff in science.
 - 📫 How to reach me amberqy18@gmail.com
 
